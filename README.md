@@ -8,6 +8,8 @@
 
 [테코톡 스터디 3주차](https://www.youtube.com/watch?v=qxmdX449z1U&t=887s&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech) - 리눅스 메모리 관리
 
+[테코톡 스터디 4주차](https://www.youtube.com/watch?v=vZRmCbl871I&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=123) - JVM에 GC에 대하여(번외)
+
 ## 매주 cs 챌린지
 
 ### 1주차
@@ -46,3 +48,15 @@
 3. 메모리 단편화
 4. 페이징
 5. 세그먼테이션
+
+
+### 4주차
+
+1. 가상 메모리
+2. 요구 페이징
+3. 페이지 교체 알고리즘
+ - FIFO 페이지 교체
+ - 최적 페이지 교체
+ - LRU 페이지 교체
+ - LFU 페이지 교체
+ - MFU 페이지 교체
