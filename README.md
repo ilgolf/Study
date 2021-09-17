@@ -10,6 +10,8 @@
 
 [테코톡 스터디 4주차](https://www.youtube.com/watch?v=vZRmCbl871I&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=123) - JVM에 GC에 대하여(번외)
 
+[테코톡 스터디 5주차](https://www.youtube.com/watch?v=NyhbNtOq0Bc) - WAS & WEB Server
+
 ## 매주 cs 챌린지
 
 ### 1주차
