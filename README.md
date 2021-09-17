@@ -68,7 +68,7 @@
 1. 캐시 메모리
  - 캐시의 지역성
  - 캐시메모리의 매핑 프로세스
-2. WAS Server & WEB Server
- - WAS Server 
+2. WAS & WEB Server
+ - WAS
  - WEB Server
  - WAS VS WEB
