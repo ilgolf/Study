@@ -60,3 +60,13 @@
  - LRU 페이지 교체
  - LFU 페이지 교체
  - MFU 페이지 교체
+
+### 5주차
+
+1. 캐시 메모리
+ - 캐시의 지역성
+ - 캐시메모리의 매핑 프로세스
+2. WAS Server & WEB Server
+ - WAS Server 
+ - WEB Server
+ - WAS VS WEB
