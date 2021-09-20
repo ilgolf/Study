@@ -12,6 +12,8 @@
 
 [테코톡 스터디 5주차](https://www.youtube.com/watch?v=NyhbNtOq0Bc) - WAS & WEB Server
 
+[테코톡 스터디 6주차](https://www.youtube.com/watch?v=Fl_PSiIwtEo) - OSI 7 Layer
+
 ## 매주 cs 챌린지
 
 ### 1주차
@@ -72,3 +74,13 @@
  - WAS
  - WEB Server
  - WAS VS WEB
+
+### 6주차
+
+1. 응용계층
+2. 표현계층
+3. 세션계층
+4. 트랜스포트계층
+5. 네트워크계층
+6. 링크계층
+7. 물리계층
