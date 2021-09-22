@@ -14,6 +14,8 @@
 
 [테코톡 스터디 6주차](https://www.youtube.com/watch?v=Fl_PSiIwtEo) - OSI 7 Layer
 
+[테코톡 스터디 7주차](https://www.youtube.com/watch?v=xcrjamphIp4) - HTTP1.1/2.0
+
 ## 매주 cs 챌린지
 
 ### 1주차
@@ -84,3 +86,13 @@
 5. 네트워크계층
 6. 링크계층
 7. 물리계층
+
+### 7주차
+
+응용계층 : HTTP
+1. HTTP가 무엇인지?
+2. HTTP 특징
+3. HTTP 버전
+4. HTTP 메서드
+5. HTTP 상태코드
+6. 요청메시지와 응답메시지
