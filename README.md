@@ -16,6 +16,8 @@
 
 [테코톡 스터디 7주차](https://www.youtube.com/watch?v=xcrjamphIp4) - HTTP1.1/2.0
 
+[테코톡 스터디 8주차](https://www.youtube.com/watch?v=5rBzHoR4F2A) - DNS
+
 ## 매주 cs 챌린지
 
 ### 1주차
@@ -96,3 +98,12 @@
 4. HTTP 메서드
 5. HTTP 상태코드
 6. 요청메시지와 응답메시지
+
+### 8주차
+
+1. DNS
+2. 웹캐싱
+3. 쿠키
+4. 세션
+5. 포트
+6. UDP
