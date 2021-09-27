@@ -18,6 +18,8 @@
 
 [테코톡 스터디 8주차](https://www.youtube.com/watch?v=5rBzHoR4F2A) - DNS
 
+[테코톡 스터디 9주차](https://www.youtube.com/watch?v=ikDVGYp5dhg) - 
+
 ## 매주 cs 챌린지
 
 ### 1주차
@@ -107,3 +109,15 @@
 4. 세션
 5. 포트
 6. UDP
+
+### 9주차
+
+1. TCP 란
+2. TCP 흐름
+3. 신뢰성 연결의 이유
+4. 3-hand shake
+5. 4-hand shake
+6. 흐름제어
+7. 혼잡제어
+8. TCP 전송 과정 (IP 패킷)
+   - 세그먼트
