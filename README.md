@@ -18,7 +18,7 @@
 
 [테코톡 스터디 8주차](https://www.youtube.com/watch?v=5rBzHoR4F2A) - DNS
 
-[테코톡 스터디 9주차](https://www.youtube.com/watch?v=ikDVGYp5dhg) - 
+[테코톡 스터디 9주차](https://www.youtube.com/watch?v=ikDVGYp5dhg) - TCP/IP
 
 ## 매주 cs 챌린지
 
