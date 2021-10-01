@@ -20,6 +20,8 @@
 
 [테코톡 스터디 9주차](https://www.youtube.com/watch?v=ikDVGYp5dhg) - TCP/IP
 
+[테코톡 스터디 10주차](https://www.youtube.com/watch?v=IEH3YA2Nn4Q) - 시간 복잡도()
+
 ## 매주 cs 챌린지
 
 ### 1주차
@@ -121,3 +123,10 @@
 7. 혼잡제어
 8. TCP 전송 과정 (IP 패킷)
    - 세그먼트
+
+### 10주차
+
+1. IP주소와 서브넷
+2. 가변길이 주소
+3. DHCP와 NAT
+4. 주소 매핑과 에러보고
