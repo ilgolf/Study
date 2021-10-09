@@ -20,7 +20,7 @@
 
 [테코톡 스터디 9주차](https://www.youtube.com/watch?v=ikDVGYp5dhg) - TCP/IP
 
-[테코톡 스터디 10주차](https://www.youtube.com/watch?v=IEH3YA2Nn4Q) - 시간 복잡도()
+[테코톡 스터디 10주차](https://www.youtube.com/watch?v=IEH3YA2Nn4Q) - 시간 복잡도(번외)
 
 ## 매주 cs 챌린지
 
